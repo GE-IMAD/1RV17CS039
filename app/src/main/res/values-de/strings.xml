@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Einkaufsliste</string>
+    <string name="action_delete_checked">Abgehakte Einträge löschen</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="context_menu_delete">Löschen</string>
+    <string name="context_menu_edit">Bearbeiten</string>
+    <string name="file_location">Dateipfad</string>
+    <string name="ok">OK</string>
+    <string name="remove_checked_items">Alle abgehakten Eintäge löschen?</string>
+    <string name="hint_quantity">Menge</string>
+    <string name="hint_new_item">Neuer Eintrag</string>
+    <string name="error_description_empty">Name des Eintrags darf nicht leer sein!</string>
+    <string name="drawer_open">Navigationsleiste öffnen</string>
+    <string name="drawer_close">Navigationsleiste schließen</string>
+    <string name="new_list">Neue Liste erstellen</string>
+    <string name="delete_list">Liste löschen</string>
+    <string name="confirm_delete_list">Liste &lt;b>%1$s&lt;/b> löschen?</string>
+    <string name="add_new_list">Neue Liste hinzufügen</string>
+    <string name="add_list_hint">Name der neuen Liste</string>
+    <string name="done">Fertig</string>
+    <string name="swap">Tauschen</string>
+    <string name="fragment_invalid_text">Es sind keine Listen vorhanden.</string>
+    <string name="lists">Listen</string>
+    <string name="about_text">&lt;h1&gt;Über&lt;/h1&gt; &lt;h3&gt;Version&lt;/h3&gt; Sie benutzen gerade Version &lt;tt&gt;v%1$s&lt;/tt&gt; &lt;h3&gt;Maintainer&lt;/h3&gt; Wolfgang Popp &lt;h3&gt;Quellcode, Probleme, Mitmachen&lt;/h3&gt; Dieses Projekt wird auf &lt;a href=&quot;https://github.com/woefe/ShoppingList&quot;&gt;Github&lt;/a&gt; verwaltet. &lt;h3&gt;Lizenz&lt;/h3&gt; ShoppingList unter &lt;a href=&quot;https://raw.githubusercontent.com/woefe/ShoppingList/master/COPYING&quot;&gt;GPLv3+&lt;/a&gt; lizenziert.</string>
+    <string name="about">Über</string>
+    <string name="error_list_name_empty">Der Listenname darf nicht leer sein!</string>
+    <string name="error_list_exists">Diese Liste existiert bereits</string>
+    <string name="share">Teilen</string>
+    <string name="warn_ignore_directory">Ignoriere festgelegtes Datenverzeichnis!</string>
+    <string name="warn_missing_permission">Berechtigung für externen Speicher fehlt!</string>
+    <string name="warn_not_a_directory">Der festgelegte Pfad ist kein Verzeichnis!</string>
+    <string name="warn_cannot_write">Das festgelegte Datenverzeichnis is nicht beschreibbar!</string>
+    <string name="sort">Sortieren</string>
+    <string name="ascending">Aufsteigend</string>
+    <string name="descending">Absteigend</string>
+</resources>
